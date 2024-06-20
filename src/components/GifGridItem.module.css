@@ -1,0 +1,19 @@
+.card{
+    align-content: center;
+    overflow: hidden;
+    border: 1px solid green;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+  
+  }
+  
+  .card p{
+    padding: 5px;
+    text-align: center;
+  }
+  .card img{
+    
+  }
+  

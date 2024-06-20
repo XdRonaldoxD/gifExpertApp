@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+body{
+  padding: 60px;
+}
+input{
+  width: 100%;
+  font-size: 1.2rem;
+}
+
